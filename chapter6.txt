@@ -1,2 +1,4 @@
 This is the first version of chapter6.
 I'm in main branch. I change content of chapter6.
+I will write some contents of chapter6.
+
